@@ -14,8 +14,6 @@ Open the terminal in the same directory and run:
 And then run the streamlit app in the web browser at <br>
 ### localhost:8501
 <br>
-To get the facial expression of your face using the webcam then <br>
-check the comments in camera.py file and make the appropriate changes.
 
 ![img3](https://github.com/Surajv311/Neural-Network-Visualizer/blob/master/images/3.jpg)
 ![img2](https://github.com/Surajv311/Neural-Network-Visualizer/blob/master/images/2.jpg)

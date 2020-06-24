@@ -8,7 +8,7 @@ You may install:<br>
 ```pip install streamlit```<br>
 
 To run the project.<br>
-Open the terminal in the same directory and run:
+Open the terminal in the same directory and run:<br>
 ```python ml_server.py``` <br>
 ```streamlit run app.py``` <br>
 And then run the streamlit app in the web browser at <br>

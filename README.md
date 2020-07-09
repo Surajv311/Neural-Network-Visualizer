@@ -14,6 +14,5 @@ Open the terminal in the same directory and run:<br>
 And then run the streamlit app in the web browser at <br>
 ### localhost:8501
 <br>
-
 ![img2](https://github.com/Surajv311/Neural-Network-Visualizer/blob/master/images/2.jpg)
 ![img1](https://github.com/Surajv311/Neural-Network-Visualizer/blob/master/images/1.jpg)
